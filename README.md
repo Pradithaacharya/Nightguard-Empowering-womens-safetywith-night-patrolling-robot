@@ -8,17 +8,18 @@ Surveillance: Equipped with cameras and sensors, NIGHTGUARD can detect and captu
 Alert system: In case of emergencies or security breaches, the robot sends immediate alerts to authorities or designated contacts.
 
 Components:
-Arduino Uno: Acts as the main microcontroller for controlling the robot's movements and functionalities.
-Ultrasonic sensors: Used for obstacle detection and avoidance during patrolling.
-Camera module: Provides visual surveillance capabilities.
-GSM module: Enables communication and alerting functionalities.
+Arduino nano: Acts as the main microcontroller for controlling the robot's movements and functionalities.
+IR sensors: Used for obstacle detection and avoidance during patrolling.
+Night Vision Camera: Provides visual surveillance capabilities.
+Node MCU: Enables communication and alerting functionalities.
 Motor drivers: Control the movement of motors for navigating the robot.
+Sound Sensor: used to detect the sound.
 
 Setup:
 Connect the components according to the provided circuit diagram.
 Install the necessary libraries for Arduino programming.
 Upload the Arduino sketch provided in the 'src' directory to the Arduino Uno.
-Configure the GSM module with appropriate SIM card settings.
+Configure the Node MCU with appropriate SIM card settings.
 Power up the robot and ensure all systems are functioning correctly.
 
 Usage:
