@@ -12,7 +12,7 @@ Surveillance: Equipped with cameras and sensors, NIGHTGUARD can detect and captu
 
 Alert system: In case of emergencies or security breaches, the robot sends immediate alerts to authorities or designated contacts.
 
-COMPONENTS:
+%COMPONENTS:%
 
 Arduino nano: Acts as the main microcontroller for controlling the robot's movements and functionalities.
 
