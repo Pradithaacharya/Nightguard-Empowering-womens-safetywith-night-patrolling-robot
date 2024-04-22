@@ -5,6 +5,7 @@ NIGHTGUARD is a project aimed at enhancing women's safety through the implementa
 
 Features:
 Autonomous patrolling: The robot is capable of autonomously navigating predefined paths to patrol designated areas.
+
 Surveillance: Equipped with cameras and sensors, NIGHTGUARD can detect and capture suspicious activities or intrusions.
 Alert system: In case of emergencies or security breaches, the robot sends immediate alerts to authorities or designated contacts.
 
