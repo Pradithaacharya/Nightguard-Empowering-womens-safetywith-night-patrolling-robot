@@ -23,7 +23,7 @@ Wi-fi module : used to enable remote control, data transmission, and communicati
 Setup:
 Connect the components according to the provided circuit diagram.
 Install the necessary libraries for Arduino programming.
-Upload the Arduino sketch provided in the 'src' directory to the Arduino Uno.
+Upload the Arduino sketch.
 Configure the Node MCU with appropriate SIM card settings.
 Power up the robot and ensure all systems are functioning correctly.
 
