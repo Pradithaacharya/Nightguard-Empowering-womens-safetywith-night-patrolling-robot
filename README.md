@@ -4,7 +4,7 @@
 
 NIGHTGUARD is a project aimed at enhancing women's safety through the implementation of a night patrolling robot. This README provides an overview of the project, its functionalities, and instructions for setup and usage.
 
-*FEATURES:*
+***FEATURES:***
 
 Autonomous patrolling: The robot is capable of autonomously navigating predefined paths to patrol designated areas.
 
@@ -12,7 +12,7 @@ Surveillance: Equipped with cameras and sensors, NIGHTGUARD can detect and captu
 
 Alert system: In case of emergencies or security breaches, the robot sends immediate alerts to authorities or designated contacts.
 
-*COMPONENTS:*
+***COMPONENTS:***
 
 Arduino nano: Acts as the main microcontroller for controlling the robot's movements and functionalities.
 
@@ -34,7 +34,7 @@ Breadboard : used for quick and temporary prototyping.
 
 Wi-fi module : used to enable remote control, data transmission, and communication with a central monitoring system.
 
-*SETUP:*
+***SETUP:***
 
 Connect the components according to the provided circuit diagram.
 
@@ -46,7 +46,7 @@ Configure the Node MCU with appropriate SIM card settings.
 
 Power up the robot and ensure all systems are functioning correctly.
 
-*USAGE:*
+***USAGE:***
 
 Place the robot in the designated patrolling area.
 
