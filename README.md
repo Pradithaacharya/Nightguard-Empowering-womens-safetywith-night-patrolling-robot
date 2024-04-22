@@ -1,4 +1,4 @@
-NIGHTGUARD: Empowering Women’s Safety with Night Patrolling Robot
+"NIGHTGUARD: EMPOWERING WOMEN'S SAFETY WITH NIGHT PATROLLING ROBOT"
 Introduction:
 NIGHTGUARD is a project aimed at enhancing women's safety through the implementation of a night patrolling robot. This README provides an overview of the project, its functionalities, and instructions for setup and usage.
 
@@ -14,6 +14,10 @@ Night Vision Camera: Provides visual surveillance capabilities.
 Node MCU: Enables communication and alerting functionalities.
 Motor drivers: Control the movement of motors for navigating the robot.
 Sound Sensor: used to detect the sound.
+Buzzer : used to alert nearby individuals or animals of the robot's presence.
+Relay : used to control high-power devices such as motors or lights, enhancing their functionality and adaptability.
+Breadboard : used for quick and temporary prototyping.
+Wi-fi module : used to enable remote control, data transmission, and communication with a central monitoring system.
 
 Setup:
 Connect the components according to the provided circuit diagram.
